@@ -4,6 +4,10 @@
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
+	<respStmt>
+		<resp> proofreading and metadata added by</resp>
+		<name type="person" ref="http://syriaca.org/person.xml[DMora]">[Daniel Mora]</name>
+	   </respStmt>
       <fileDesc>
          <titleStmt>
             <title ref="http://syriaca.org/work/3023">To Cosmas, Archimandrite of the Monastery of
@@ -91,14 +95,14 @@
                the blessed Cyrus or Khurish.</head>
             <head type="sub" resp="#compiler">From those during episcopacy, from the 2nd book the 16th
                letter.</head>
-            <p> We have readily forgiven the devout Julian the sin that was involuntarily committed
+            <p> We have readily forgiven the devout <persName ref=http://syriaca.org/person/2691> Julian</persName> the sin that was involuntarily committed
                by him. Ignorance and the fact that the man who has sinned confesses this, and in
                consciousness of his fault asks for forgive<pb n="262"/>ness, is a sufficient
                defence. In fact, even when the service of Moses' law prevailed, a man's ignorance,
                or rather the sin arising from this, was not forgiven him on any other condition
                except on his offering the sacrifice for sin: and now also, when the bloodless
                sacrifice has taken its place, and the truth has expelled the shadow, in place of a
-               sin-ram, or. a pair of turtledoves or young pigeons, and in place of offering fine
+               sin-ram, or a pair of turtledoves or young pigeons, and in place of offering fine
                wheat flour, we have "the Lamb of God which taketh away the sin of the world": only
                if we duly confess the sin. For David also the speaker of divine things somewhere
                says in song, "I said 'I will confess my transgression to the Lord against myself,'
